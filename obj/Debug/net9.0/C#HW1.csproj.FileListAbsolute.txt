@@ -1,0 +1,14 @@
+C:\Users\maxim\source\repos\C#HW1\bin\Debug\net9.0\C#HW1.exe
+C:\Users\maxim\source\repos\C#HW1\bin\Debug\net9.0\C#HW1.deps.json
+C:\Users\maxim\source\repos\C#HW1\bin\Debug\net9.0\C#HW1.runtimeconfig.json
+C:\Users\maxim\source\repos\C#HW1\bin\Debug\net9.0\C#HW1.dll
+C:\Users\maxim\source\repos\C#HW1\bin\Debug\net9.0\C#HW1.pdb
+C:\Users\maxim\source\repos\C#HW1\obj\Debug\net9.0\C#HW1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxim\source\repos\C#HW1\obj\Debug\net9.0\C#HW1.AssemblyInfoInputs.cache
+C:\Users\maxim\source\repos\C#HW1\obj\Debug\net9.0\C#HW1.AssemblyInfo.cs
+C:\Users\maxim\source\repos\C#HW1\obj\Debug\net9.0\C#HW1.csproj.CoreCompileInputs.cache
+C:\Users\maxim\source\repos\C#HW1\obj\Debug\net9.0\C#HW1.dll
+C:\Users\maxim\source\repos\C#HW1\obj\Debug\net9.0\refint\C#HW1.dll
+C:\Users\maxim\source\repos\C#HW1\obj\Debug\net9.0\C#HW1.pdb
+C:\Users\maxim\source\repos\C#HW1\obj\Debug\net9.0\C#HW1.genruntimeconfig.cache
+C:\Users\maxim\source\repos\C#HW1\obj\Debug\net9.0\ref\C#HW1.dll
